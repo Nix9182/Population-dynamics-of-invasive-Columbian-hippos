@@ -62,3 +62,6 @@ sens_elas(A)$Elasticity
 #où que des par de survie, cohérent avec littérature
 
 
+#test pour voir
+
+
